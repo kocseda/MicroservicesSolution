@@ -1,0 +1,17 @@
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Stock.Application\obj\Debug\net8.0\Stock.Application.csproj.AssemblyReference.cache
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Stock.Application\obj\Debug\net8.0\Stock.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Stock.Application\obj\Debug\net8.0\Stock.Application.AssemblyInfoInputs.cache
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Stock.Application\obj\Debug\net8.0\Stock.Application.AssemblyInfo.cs
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Stock.Application\obj\Debug\net8.0\Stock.Application.csproj.CoreCompileInputs.cache
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Stock.Application\bin\Debug\net8.0\Stock.Application.deps.json
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Stock.Application\bin\Debug\net8.0\Stock.Application.dll
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Stock.Application\bin\Debug\net8.0\Stock.Application.pdb
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Stock.Application\bin\Debug\net8.0\Shared.Messages.dll
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Stock.Application\bin\Debug\net8.0\Stock.Domain.dll
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Stock.Application\bin\Debug\net8.0\Shared.Messages.pdb
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Stock.Application\bin\Debug\net8.0\Stock.Domain.pdb
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Stock.Application\obj\Debug\net8.0\Stock.Application.csproj.CopyComplete
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Stock.Application\obj\Debug\net8.0\Stock.Application.dll
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Stock.Application\obj\Debug\net8.0\refint\Stock.Application.dll
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Stock.Application\obj\Debug\net8.0\Stock.Application.pdb
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Stock.Application\obj\Debug\net8.0\ref\Stock.Application.dll

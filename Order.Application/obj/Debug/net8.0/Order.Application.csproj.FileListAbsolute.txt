@@ -1,0 +1,17 @@
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Order.Application\obj\Debug\net8.0\Order.Application.csproj.AssemblyReference.cache
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Order.Application\obj\Debug\net8.0\Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Order.Application\obj\Debug\net8.0\Order.Application.AssemblyInfoInputs.cache
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Order.Application\obj\Debug\net8.0\Order.Application.AssemblyInfo.cs
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Order.Application\obj\Debug\net8.0\Order.Application.csproj.CoreCompileInputs.cache
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Order.Application\bin\Debug\net8.0\Order.Application.deps.json
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Order.Application\bin\Debug\net8.0\Order.Application.dll
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Order.Application\bin\Debug\net8.0\Order.Application.pdb
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Order.Application\bin\Debug\net8.0\Order.Domain.dll
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Order.Application\bin\Debug\net8.0\Shared.Messages.dll
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Order.Application\bin\Debug\net8.0\Order.Domain.pdb
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Order.Application\bin\Debug\net8.0\Shared.Messages.pdb
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Order.Application\obj\Debug\net8.0\Order.Application.csproj.CopyComplete
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Order.Application\obj\Debug\net8.0\Order.Application.dll
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Order.Application\obj\Debug\net8.0\refint\Order.Application.dll
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Order.Application\obj\Debug\net8.0\Order.Application.pdb
+C:\Users\Z004UM0K\source\repos\MicroservicesSolution\Order.Application\obj\Debug\net8.0\ref\Order.Application.dll
